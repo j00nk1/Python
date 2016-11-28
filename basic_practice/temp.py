@@ -1,3 +1,5 @@
-name=input("your name?")
+import turtle as t
 
-print("hello",name)
+t.shape("turtle")
+
+t.forward(50)
